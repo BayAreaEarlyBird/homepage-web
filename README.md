@@ -1,2 +1,1 @@
-# homepage-web
-Web App project for Early Bird Homepage
+This is a font-end of Early-bird web
